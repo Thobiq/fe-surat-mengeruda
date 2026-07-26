@@ -3,10 +3,8 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <!-- Brand -->
             <div>
-                <div class="flex items-center gap-2 mb-3">
-                    <div class="w-8 h-8 rounded bg-[#1e3a8a] text-white flex items-center justify-center font-bold">
-                        E
-                    </div>
+                <div class="flex items-center gap-3 mb-3">
+                    <img src="/logo.png" alt="Logo Desa Mengeruda" class="w-9 h-9 object-contain drop-shadow shrink-0" />
                     <span class="font-bold text-white text-lg tracking-wide">E-SURAT DESA MENGERUDA</span>
                 </div>
                 <p class="text-sm text-slate-400 leading-relaxed">
